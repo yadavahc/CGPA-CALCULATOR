@@ -10,5 +10,3 @@
 <h1>What is CGPA?</h1>
 <p>Another prominent method of calculation of the marks we score in our colleges or schools is through CGPA. Simply put, CGPA is the abbreviated form of Cumulative Grade Point Average and depicts the total marks we score in a complete academic term or a certain time period like the 1st year or 3rd year of college. The total marks that we score in all the sessions of a college term or both half yearly examination in school, is taken together to calculate the CGPA scored in that academic term.</p>
 <p>The central difference between sessional grade point average and cumulative grade point average is that we calculate CGPA at the end of the academic year with many SGPAs of different semesters or sessions. Students must understand that having an idea about what is CGPA will help them in getting a hold of how to go calculate SGPA.</p>
-
- 
