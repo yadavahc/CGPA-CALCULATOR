@@ -1,4 +1,4 @@
-<h1> SGPA-CGPA-CALCY </h1>
+<h1> SGPA-CGPA-Calculator </h1>
 <p>Marks calculation is an important aspect of college and school life. Although there are numerous methods of carrying out the same task, the most used method of score calculation is the GPA method. The one aspect of this method that appears a little confusing but is a perfectly simple concept is the conversion from SGPA to CGPA. Even though both the concepts of SGPA and CGPA serve a similar purpose, they differ from each other and are calculated separately and through different methods.</p>
 <h2>Demo</h2>
 <img style="width:35%" src="./demo.gif" />
